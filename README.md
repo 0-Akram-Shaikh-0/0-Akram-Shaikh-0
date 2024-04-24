@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0-Akram-Shaikh-0
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning to code in MCA
+- 🌱 I’m a PG professional with 2+ years of experience in UI/UX Designer and Developer
 - 💞️ I’m looking to collaborate on any kind of projects 
 - 📫 You can reach me be my mail or here
 
